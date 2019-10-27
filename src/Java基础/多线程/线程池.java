@@ -1,4 +1,4 @@
-package Java基础;
+package Java基础.多线程;
 
 
 import java.util.concurrent.*;

@@ -1,4 +1,4 @@
-package Java基础;
+package Java基础.多线程;
 
 
 
@@ -36,11 +36,6 @@ package Java基础;
 //        return null;
 //    }
 //}
-
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
-
-import static sun.nio.cs.Surrogate.MAX;
 
 //class test implements Runnable{
 //
