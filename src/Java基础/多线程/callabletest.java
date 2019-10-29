@@ -44,8 +44,11 @@ class callabledemo implements Callable {
 
 
 public class callabletest  {
-//
-//    // 开辟一个线程池
+
+
+
+
+    // 开辟一个线程池
 //    ExecutorService pool = Executors.newFixedThreadPool(2);
 //    // Future 对象，用来获取返回值或者判断是否结束
 //    Future<Integer> future = pool.submit(new SumCallable(10));

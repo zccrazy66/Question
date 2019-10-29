@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b978089-60cc-4251-bac5-f714f1a89e3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_3替换空格.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_4从尾到头打印链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java基础/多线程/Executors示例.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock示例.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java基础/多线程/Semaphore示例.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_10矩阵中的路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_6二叉树的下一个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_7用两个栈实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_8斐波那契.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/题/剑指offer/_9旋转数组的最小数字.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Question/Fun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/Fun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Question/设计模式/单例设计模式.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/设计模式/单例设计模式.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/Java基础/多线程/callabletest$SumCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/Java基础/多线程/callabletest$SumCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/题/剑指offer/_4从尾到头打印链表$ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/题/剑指offer/_4从尾到头打印链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/题/剑指offer/_4从尾到头打印链表.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Java基础/多线程/callabletest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java基础/多线程/callabletest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java基础/多线程/多线程示例.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java基础/多线程/多线程示例.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java基础/多线程/线程池.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java基础/多线程/线程池.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/题/剑指offer/_1数组中的重复数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/题/剑指offer/_1数组中的重复数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/题/剑指offer/_2不修改数组找到重复的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/题/剑指offer/_2二维数组中的查找.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +27,96 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_9旋转数组的最小数字.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_10矩阵中的路径.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/Executors示例.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#120#121#0" expanded="true" />
+                <element signature="e#150#151#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/Semaphore示例.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock示例.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="312" column="5" lean-forward="true" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_1数组中的重复数字.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="418">
+              <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_3替换空格.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_4从尾到头打印链表.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -39,95 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_2二维数组中的查找.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="440">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/TreeNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_3替换空格.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_4从尾到头打印链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#453#462#0" expanded="true" />
-                <element signature="e#519#528#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/题/剑指offer/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Fun.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Exception.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1540">
-              <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/设计模式/单例设计模式.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#282#283#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-              </folding>
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -144,6 +142,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>run</find>
+      <find>equ</find>
+      <find>equals</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -159,24 +159,33 @@
         <option value="$PROJECT_DIR$/src/Java基础/多线程/线程池.java" />
         <option value="$PROJECT_DIR$/src/Java基础/多线程/HandleThread.java" />
         <option value="$PROJECT_DIR$/src/Java基础/多线程/HandlerThreadActivity.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/callabletest.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/_1.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/_2二维数组中的查找.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/_3替换空格.java" />
         <option value="$PROJECT_DIR$/src/Fun.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/_1数组中的重复数字.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/_4从尾到头打印链表.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/ListNode.java" />
         <option value="$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java" />
+        <option value="$PROJECT_DIR$/src/Java基础/多线程/callabletest.java" />
+        <option value="$PROJECT_DIR$/src/题/剑指offer/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/题/剑指offer/_6二叉树的下一个节点.java" />
+        <option value="$PROJECT_DIR$/src/题/剑指offer/_7用两个栈实现队列.java" />
+        <option value="$PROJECT_DIR$/src/题/剑指offer/_8斐波那契.java" />
+        <option value="$PROJECT_DIR$/src/题/剑指offer/_9旋转数组的最小数字.java" />
+        <option value="$PROJECT_DIR$/src/题/剑指offer/_10矩阵中的路径.java" />
+        <option value="$PROJECT_DIR$/src/Java基础/多线程/Semaphore示例.java" />
+        <option value="$PROJECT_DIR$/src/Java基础/多线程/Executors示例.java" />
+        <option value="$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock.java" />
+        <option value="$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock示例.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="536" />
-    <option name="y" value="134" />
-    <option name="width" value="990" />
-    <option name="height" value="867" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="751" />
+    <option name="y" value="51" />
+    <option name="width" value="1264" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -186,6 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -209,18 +219,24 @@
               <item name="Question" type="b2602c69:ProjectViewProjectNode" />
               <item name="Question" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="设计模式" type="462c0819:PsiDirectoryNode" />
+              <item name="单例设计模式.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="Question" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Question" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572180462562" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572349466162" />
     <property name="last_opened_file_path" value="H:/java后台" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -238,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Fun">
+  <component name="RunManager" selected="Application.Semaphore示例">
     <configuration name="单例设计模式" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="设计模式.单例设计模式" />
       <module name="Question" />
@@ -252,9 +268,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Executors示例" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java基础.多线程.Executors示例" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java基础.多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Fun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fun" />
       <module name="Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Semaphore示例" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java基础.多线程.Semaphore示例" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java基础.多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -274,6 +316,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Semaphore示例" />
+        <item itemvalue="Application.Executors示例" />
         <item itemvalue="Application.Fun" />
         <item itemvalue="Application.单例设计模式" />
       </list>
@@ -300,12 +344,14 @@
       <workItem from="1571887666236" duration="53000" />
       <workItem from="1571973037920" duration="8069000" />
       <workItem from="1572074775139" duration="3798000" />
-      <workItem from="1572163216294" duration="10194000" />
+      <workItem from="1572163216294" duration="10924000" />
+      <workItem from="1572227167127" duration="12970000" />
+      <workItem from="1572315429446" duration="11761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59697000" />
+    <option name="totallyTimeSpent" value="85158000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -317,10 +363,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="751" y="51" width="1264" height="950" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12260128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28737542" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -328,16 +373,16 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.38527396" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16035634" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38510102" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33585858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.31111112" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3459596" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32722145" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3270202" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.32876712" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -364,20 +409,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/题/正方形边长.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6160">
-          <caret line="320" column="19" selection-start-line="320" selection-start-column="19" selection-end-line="320" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2266">
-          <caret line="137" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Executor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2068">
@@ -415,16 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/callabletest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1078">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1606">
@@ -453,10 +474,109 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/callabletest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2222">
+          <caret line="135" column="3" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-71">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_6二叉树的下一个节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#468#505#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="29" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5425">
+          <caret line="322" column="13" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_7用两个栈实现队列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_8斐波那契.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39446">
+          <caret line="1863" column="68" selection-start-line="1863" selection-start-column="62" selection-end-line="1863" selection-end-column="68" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/设计模式/单例设计模式.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="396">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#282#283#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
@@ -464,71 +584,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fun.java">
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_1数组中的重复数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="418">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_1数组中的重复数字.java">
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_3替换空格.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="770">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_4从尾到头打印链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_2二维数组中的查找.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_3替换空格.java">
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_9旋转数组的最小数字.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_4从尾到头打印链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="391">
+          <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#453#462#0" expanded="true" />
-            <element signature="e#519#528#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_10矩阵中的路径.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="88">
+          <caret line="37" column="15" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="312" column="5" lean-forward="true" selection-start-line="312" selection-start-column="5" selection-end-line="312" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/Executors示例.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
-            <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/题/剑指offer/_5重建二叉树.java">
+    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/Semaphore示例.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="102">
+          <caret line="50" column="9" lean-forward="true" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock示例.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

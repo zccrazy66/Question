@@ -27,6 +27,7 @@ public class _5重建二叉树 {
     private TreeNode reConstructBinaryTree(int[] pre, int start_pre, int end_pre, int[] in, int start_in, int end_in){
 
         //特殊情况
+
         if (start_pre > end_pre || start_in > end_in){
             return null;
         }
@@ -35,7 +36,9 @@ public class _5重建二叉树 {
 
         for (int i=start_in; i <= end_in; i++){
             if (in[i] == pre[start_pre]){
+
                 root.left = reConstructBinaryTree(pre, start_pre+1, start_pre + i-start_in, in, start_in,i-1);
+
                 root.right = reConstructBinaryTree(pre, i-start_in + start_pre + 1, end_pre, in, i + 1, end_in);
 
                 break;
