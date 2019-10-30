@@ -1,4 +1,4 @@
-package 题.剑指offer;
+package 刷题.剑指offer;
 
 /**
  * 题目：把一个数组最开始的若干个元素搬到数组的末尾，我们称之为数组的旋转。
@@ -7,11 +7,6 @@ package 题.剑指offer;
  *
  * NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。
  */
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.concurrent.ThreadPoolExecutor;
 
 public class _9旋转数组的最小数字 {
 

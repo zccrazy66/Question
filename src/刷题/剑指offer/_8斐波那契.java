@@ -1,4 +1,4 @@
-package 题.剑指offer;
+package 刷题.剑指offer;
 
 /**
  * 题目： 就是斐波那契

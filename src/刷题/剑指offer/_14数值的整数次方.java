@@ -1,4 +1,4 @@
-package 题.剑指offer;
+package 刷题.剑指offer;
 
 /**
  * 题目： 给定一个double类型的浮点数 base 和 int 类型的整数 exponent。

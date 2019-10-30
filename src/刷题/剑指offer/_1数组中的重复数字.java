@@ -1,6 +1,4 @@
-package 题.剑指offer;
-
-import java.util.Scanner;
+package 刷题.剑指offer;
 
 /**
  * 数组中的重复数字：

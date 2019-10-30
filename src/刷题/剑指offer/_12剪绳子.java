@@ -1,4 +1,4 @@
-package 题.剑指offer;
+package 刷题.剑指offer;
 
 /**
  * 题目：给你一根长度为n的绳子，请把绳子剪成m段（m、n都是整数，n>1并且m>1），
