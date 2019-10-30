@@ -13,7 +13,7 @@ package 题.剑指offer;
 
 public class _10矩阵中的路径 {
 
-
+    // 思路 DFS
     public boolean hasPath(char[] matrix, int rows, int cols, char[] str)
     {
 
