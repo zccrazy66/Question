@@ -7,9 +7,7 @@ package 刷题.剑指offer;
 
 
 public class _XX跳台阶 {
-
     public int JumpFloor(int target) {
-
         if(target <= 0) return 0;
         if(target == 1) return 1;
         if(target == 2) return 2;
@@ -22,7 +20,6 @@ public class _XX跳台阶 {
             two = result;
         }
         return result;
-
     }
 
 }
