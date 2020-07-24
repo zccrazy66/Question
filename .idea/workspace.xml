@@ -2,30 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b978089-60cc-4251-bac5-f714f1a89e3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Question/NIO/初探NIO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/Util/CronUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/二叉树/不同的二叉搜索树.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/字符串/KMP.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/字符串/实现strStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/数组/三数之和.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/链表/SkipListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/链表/跳表.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/笔试题/LRU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/刷题/笔试题/LRUNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/网络/TalkClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Question/网络/TalkServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Util/CronUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/_变态跳台阶.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/_把字符串转换成整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/_矩形覆盖.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/第一个只出现一次的字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/网络/TalkClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/网络/TalkServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/二叉树/二叉树的层序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/二进制矩阵中的最短路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/分割数最大.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/完全平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍二.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/最长上升子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/动态规划/零钱兑换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/可被5整除的二进制前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/括号生成.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/搜索/leetcode279完全平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/搜索/leetcode_111二叉树最小深度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/搜索/图像渲染733.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/搜索/岛屿数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/搜索/最小路径和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/搜索/被围绕的区域.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/数组/搜索插入位置.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/数组/最长公共前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/数组/移动零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/有效括号.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/_326车的可用捕获量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/买卖股票的最佳时机309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/交点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/合并区间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/圆圈中最后剩下的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/地下城游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/地图分析.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/恢复空格.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/打印从1到最大的n位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/排序数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/翻转字符串里的单词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/计算右侧小于当前元素的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/路径总和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/跳水板.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/跳跃游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/转变数组后最接近目标值的数组和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/非递减数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/每日一题/鸡蛋掉落.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/消失的数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/leetcode/链表/两数相加Ⅱ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/二叉树的镜像.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/从上往下打印二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/孩子们的游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/栈的压入_弹出序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/树的子结构.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/翻转单词顺序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/剑指offer/链表中环的入口节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/牛客/二叉树的后序遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/牛客/回路.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/牛客/机器人的运动范围.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/牛客/车站建设问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/字节跳动/山形数组转换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/携程/小明爬楼梯.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/网易/二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/网易/怪兽距离.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/网易/牛牛的等差数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/网易/病毒传播.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/笔试题/网易/等差数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/刷题/面试宝典/判断字符是否唯一.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Question/Fun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/Fun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Question/刷题/剑指offer/_XX跳台阶.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/刷题/剑指offer/_XX跳台阶.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/MyApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/二叉树/不同的二叉搜索树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/刷题/leetcode/二叉树/不同的二叉搜索树.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/刷题/剑指offer/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/刷题/剑指offer/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/刷题/剑指offer/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Question/刷题/剑指offer/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Question/刷题/笔试题/网易_完美的序列.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Fun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/刷题/剑指offer/_XX跳台阶.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/刷题/剑指offer/_XX跳台阶.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/刷题/leetcode/二叉树/不同的二叉搜索树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/刷题/leetcode/二叉树/不同的二叉搜索树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/刷题/剑指offer/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/刷题/剑指offer/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/刷题/剑指offer/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/刷题/剑指offer/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/刷题/笔试题/网易_完美的序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/刷题/笔试题/网易/网易_完美的序列.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,54 +84,116 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Fun.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/完全平方数.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="456">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/最小路径和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/零钱兑换.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#331#332#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_把字符串转换成整数.java">
+        <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="361">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/第一个只出现一次的字符.java">
+        <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍二.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="228">
+              <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/二进制矩阵中的最短路径.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1473#1474#0" expanded="true" />
+                <element signature="e#1542#1543#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Util/CronUtil.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Point.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+            <state relative-caret-position="247">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_XX跳台阶.java">
+        <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="95">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/二叉树的镜像.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_5重建二叉树.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -112,65 +224,65 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_8斐波那契.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/Semaphore示例.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/Executors示例.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/ReentrantLock示例.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_10矩阵中的路径.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_12剪绳子.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_11机器人的运动范围.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_13二进制中1的个数.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_14数值的整数次方.java" />
-        <option value="$PROJECT_DIR$/src/题/剑指offer/_9旋转数组的最小数字.java" />
-        <option value="$PROJECT_DIR$/src/设计模式/剑指offer/_9旋转数组的最小数字.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_5重建二叉树.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_15打印从1到最大的n位数.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/死锁示例.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_15打印从1到最大的n位数_未验证.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_16删除链表的节点.java" />
-        <option value="$PROJECT_DIR$/src/Java基础/多线程/Fork_Join框架.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_17正则表达式.java" />
-        <option value="$PROJECT_DIR$/src/刷题/笔试题/猿辅导_逆时针发食物.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/课程表_207.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_19调整数组顺序使奇数位于偶数前面.java" />
-        <option value="$PROJECT_DIR$/src/RxJava/example.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_37数组中出现超过一半的数字.java" />
-        <option value="$PROJECT_DIR$/src/test.txt" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_XX反转链表.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/连续子数组的最大和.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/删除链表中的节点237.java" />
-        <option value="$PROJECT_DIR$/src/DateUtil.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/最后一个单词的长度.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/合并有序链表.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/链表/合并有序链表.java" />
-        <option value="$PROJECT_DIR$/src/刷题/笔试题/LRU.java" />
-        <option value="$PROJECT_DIR$/src/刷题/笔试题/旋转相等.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/数组/三数之和.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/字符串/KMP.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/字符串/实现strStr.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/链表/两数相加Ⅱ.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/数组/回旋镖的数量.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/_01矩阵.java" />
+        <option value="$PROJECT_DIR$/src/刷题/排序/冒泡排序.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/合并区间.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/跳跃游戏.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/最长上升子序列.java" />
+        <option value="$PROJECT_DIR$/src/Apple.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/转变数组后最接近目标值的数组和.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/数组/最长公共前缀.java" />
+        <option value="$PROJECT_DIR$/src/刷题/面试宝典/判断字符是否唯一.java" />
+        <option value="$PROJECT_DIR$/src/刷题/笔试题/携程/小明爬楼梯.java" />
+        <option value="$PROJECT_DIR$/src/刷题/剑指offer/二叉树第K大的数.java" />
+        <option value="$PROJECT_DIR$/src/刷题/牛客/车站建设问题.java" />
+        <option value="$PROJECT_DIR$/src/刷题/牛客/回路.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/搜索/leetcode_111二叉树最小深度.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/搜索/leetcode279完全平方数.java" />
+        <option value="$PROJECT_DIR$/src/刷题/排序.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/搜索/图像渲染733.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/不同路径.java" />
+        <option value="$PROJECT_DIR$/src/刷题/剑指offer/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/搜索/被围绕的区域.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/搜索/岛屿数量.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/路径总和.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/跳水板.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/有效括号.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/括号生成.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/二叉树/二叉树的层序遍历.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/恢复空格.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/买卖股票的最佳时机309.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/地下城游戏.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/链表/反转链表.java" />
         <option value="$PROJECT_DIR$/src/刷题/leetcode/二叉树/不同的二叉搜索树.java" />
-        <option value="$PROJECT_DIR$/src/刷题/leetcode/链表/跳表.java" />
-        <option value="$PROJECT_DIR$/src/NIO/初探NIO.java" />
-        <option value="$PROJECT_DIR$/src/网络/net_test.java" />
-        <option value="$PROJECT_DIR$/src/网络/TalkServer.java" />
-        <option value="$PROJECT_DIR$/src/网络/TalkClient.java" />
-        <option value="$PROJECT_DIR$/src/CronUtil.java" />
-        <option value="$PROJECT_DIR$/src/Util/CronUtil.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_XX跳台阶.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_变态跳台阶.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_矩形覆盖.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/_把字符串转换成整数.java" />
-        <option value="$PROJECT_DIR$/src/刷题/剑指offer/第一个只出现一次的字符.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/数组/搜索插入位置.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/数组/移动零.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/数组/移除元素.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/交错字符串.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/三角形最小路径和.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/每日一题/计算右侧小于当前元素的个数.java" />
+        <option value="$PROJECT_DIR$/src/刷题/笔试题/字节跳动/山形数组转换.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/戳气球.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/分割数最大.java" />
         <option value="$PROJECT_DIR$/src/Fun.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/完全平方数.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/搜索/最小路径和.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/零钱兑换.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/分割等和子集.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/零钱兑换二.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍二.java" />
+        <option value="$PROJECT_DIR$/src/刷题/leetcode/动态规划/二进制矩阵中的最短路径.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="446" />
-    <option name="y" value="110" />
-    <option name="width" value="1940" />
-    <option name="height" value="1050" />
+    <option name="x" value="714" />
+    <option name="y" value="136" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -180,7 +292,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,12 +308,6 @@
               <item name="Question" type="b2602c69:ProjectViewProjectNode" />
               <item name="Question" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Question" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Question" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="刷题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -210,34 +315,40 @@
               <item name="Question" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="刷题" type="462c0819:PsiDirectoryNode" />
-              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Question" type="b2602c69:ProjectViewProjectNode" />
               <item name="Question" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="网络" type="462c0819:PsiDirectoryNode" />
+              <item name="刷题" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="动态规划" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583721568286" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/最近要用/LDAR_backend-master/LDAR_backend-master" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595558360580" />
+    <property name="last_opened_file_path" value="G:/ldar/ldar相关资料/ldar相关资料/VOCs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\求职\Question\src" />
       <recent name="E:\求职\Question\src\刷题\笔试题" />
     </key>
   </component>
@@ -253,13 +364,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyApplication">
-    <configuration name="最后一个单词的长度" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="刷题.leetcode.最后一个单词的长度" />
+  <component name="RunManager" selected="Application.Fun">
+    <configuration name="牛牛的等差数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.笔试题.网易.牛牛的等差数列" />
       <module name="Question" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="刷题.leetcode.链表.*" />
+          <option name="PATTERN" value="刷题.笔试题.网易.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +381,6 @@
     <configuration name="Fun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Fun" />
       <module name="Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="刷题.leetcode.字符串.KMP" />
-      <module name="Question" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="刷题.leetcode.字符串.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -300,6 +398,71 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="NIO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="完全平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.leetcode.动态规划.完全平方数" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="刷题.leetcode.动态规划.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="山形数组转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.笔试题.字节跳动.山形数组转换" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="刷题.笔试题.字节跳动.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="有效括号" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.leetcode.有效括号" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="刷题.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.排序" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="刷题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="翻转字符串里的单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="刷题.leetcode.每日一题.翻转字符串里的单词" />
+      <module name="Question" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="刷题.leetcode.每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,11 +511,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyApplication" />
         <item itemvalue="Application.Fun" />
+        <item itemvalue="Application.牛牛的等差数列" />
+        <item itemvalue="Application.MyApplication" />
         <item itemvalue="Application.初探NIO" />
-        <item itemvalue="Application.KMP" />
-        <item itemvalue="Application.最后一个单词的长度" />
       </list>
     </recent_temporary>
   </component>
@@ -465,7 +627,69 @@
       <workItem from="1583288681091" duration="2251000" />
       <workItem from="1583375203363" duration="2717000" />
       <workItem from="1583459365731" duration="4917000" />
-      <workItem from="1583718732625" duration="673000" />
+      <workItem from="1583718732625" duration="1945000" />
+      <workItem from="1584687614226" duration="726000" />
+      <workItem from="1584970241079" duration="85000" />
+      <workItem from="1585043662181" duration="1247000" />
+      <workItem from="1585137307037" duration="1932000" />
+      <workItem from="1585206472538" duration="4106000" />
+      <workItem from="1585270096229" duration="1025000" />
+      <workItem from="1585359447085" duration="1221000" />
+      <workItem from="1585481902729" duration="2720000" />
+      <workItem from="1585533043110" duration="612000" />
+      <workItem from="1585537655737" duration="6000" />
+      <workItem from="1585565633888" duration="4383000" />
+      <workItem from="1585621486891" duration="2866000" />
+      <workItem from="1585719704858" duration="1279000" />
+      <workItem from="1585791910328" duration="604000" />
+      <workItem from="1585973597285" duration="11335000" />
+      <workItem from="1586055800192" duration="6933000" />
+      <workItem from="1586141786693" duration="184000" />
+      <workItem from="1586224954818" duration="11428000" />
+      <workItem from="1586312952342" duration="6566000" />
+      <workItem from="1586396320396" duration="3214000" />
+      <workItem from="1586482509810" duration="6257000" />
+      <workItem from="1586506248818" duration="999000" />
+      <workItem from="1586568043278" duration="1949000" />
+      <workItem from="1586593067680" duration="923000" />
+      <workItem from="1586658400743" duration="2590000" />
+      <workItem from="1586694221493" duration="599000" />
+      <workItem from="1586761599436" duration="4086000" />
+      <workItem from="1586828329224" duration="5689000" />
+      <workItem from="1586919183060" duration="7790000" />
+      <workItem from="1587087752325" duration="7623000" />
+      <workItem from="1587206643951" duration="1211000" />
+      <workItem from="1587279754280" duration="4241000" />
+      <workItem from="1587345914153" duration="1399000" />
+      <workItem from="1587369010628" duration="24000" />
+      <workItem from="1587451910946" duration="2701000" />
+      <workItem from="1587819918069" duration="1518000" />
+      <workItem from="1589088403204" duration="5186000" />
+      <workItem from="1592135446997" duration="1969000" />
+      <workItem from="1592204029007" duration="599000" />
+      <workItem from="1592316833149" duration="1317000" />
+      <workItem from="1592444614606" duration="1375000" />
+      <workItem from="1592733007267" duration="4284000" />
+      <workItem from="1593826814224" duration="2193000" />
+      <workItem from="1593849293796" duration="599000" />
+      <workItem from="1593925543910" duration="5601000" />
+      <workItem from="1593944957261" duration="1832000" />
+      <workItem from="1593998391251" duration="5756000" />
+      <workItem from="1594036633070" duration="3397000" />
+      <workItem from="1594106198471" duration="6937000" />
+      <workItem from="1594174932887" duration="7147000" />
+      <workItem from="1594266609682" duration="5499000" />
+      <workItem from="1594345876473" duration="6401000" />
+      <workItem from="1594553464693" duration="240000" />
+      <workItem from="1594553726056" duration="2933000" />
+      <workItem from="1594604698625" duration="2700000" />
+      <workItem from="1594808411565" duration="1454000" />
+      <workItem from="1594951550925" duration="2860000" />
+      <workItem from="1594983971566" duration="3768000" />
+      <workItem from="1595045774614" duration="9217000" />
+      <workItem from="1595226579897" duration="5168000" />
+      <workItem from="1595477674401" duration="10019000" />
+      <workItem from="1595556287702" duration="2774000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;以前的&quot;">
       <created>1577173384549</created>
@@ -478,7 +702,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="254816000" />
+    <option name="totallyTimeSpent" value="469384000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -490,10 +714,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21715818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -502,17 +726,17 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3841642" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28592375" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3973607" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2650334" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3964365" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.25953078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.3256579" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32293987" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.6451613" />
-      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.29411766" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32766616" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.23020528" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -521,7 +745,7 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
@@ -534,372 +758,350 @@
     <option name="LAST_COMMIT_MESSAGE" value="&quot;以前的&quot;" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/Fork_Join框架.java">
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/数组/最长公共前缀.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Java基础/多线程/死锁示例.java">
+    <entry file="file://$PROJECT_DIR$/src/Apple.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_1数组中的重复数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_8斐波那契.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_16删除链表的节点.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_17正则表达式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/tx_养花.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/携程_表达式解析.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/猿辅导_逆时针发食物.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/网易_完美的序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/tx_删除数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/课程表_207.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_XX反转链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12672">
-          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DateUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7150">
-          <caret line="336" column="43" selection-start-line="336" selection-start-column="43" selection-end-line="336" selection-end-column="43" />
+        <state relative-caret-position="-5517">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/链表/合并有序链表.java">
+    <entry file="file://$PROJECT_DIR$/src/刷题/面试宝典/判断字符是否唯一.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/链表/删除链表中的节点237.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/旋转相等.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/LRU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/数组/三数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/字符串/实现strStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/字符串/KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="40" column="13" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NIO.java" />
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/二叉树/不同的二叉搜索树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/nio/channels/Selector.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4378">
-          <caret line="225" column="27" selection-start-line="225" selection-start-column="27" selection-end-line="225" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/连续子数组的最大和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_19调整数组顺序使奇数位于偶数前面.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RxJava/example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_37数组中出现超过一半的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/链表/跳表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络/net_test.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/DatagramSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="880">
-          <caret line="66" column="44" selection-start-line="66" selection-start-column="44" selection-end-line="66" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31636">
-          <caret line="1501" column="15" selection-start-line="1501" selection-start-column="15" selection-end-line="1501" selection-end-column="15" />
-          <folding>
-            <element signature="e#58481#58482#0" expanded="true" />
-            <element signature="e#58518#58519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11550">
-          <caret line="577" column="11" selection-start-line="577" selection-start-column="11" selection-end-line="577" selection-end-column="11" />
-          <folding>
-            <element signature="e#23443#23444#0" expanded="true" />
-            <element signature="e#23515#23516#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/text/DateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6842">
-          <caret line="360" column="16" selection-start-line="360" selection-start-column="16" selection-end-line="360" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/NIO/初探NIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络/TalkServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/网络/TalkClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/最后一个单词的长度.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Util.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_矩形覆盖.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_变态跳台阶.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_把字符串转换成整数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Util/CronUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
+        <state relative-caret-position="209">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_XX跳台阶.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/第一个只出现一次的字符.java">
+    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/二叉树第K大的数.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/携程/小明爬楼梯.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        <state relative-caret-position="342">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fun.java">
+    <entry file="file://$PROJECT_DIR$/src/刷题/牛客/二叉树的后序遍历.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/牛客/车站建设问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/牛客/回路.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/leetcode_111二叉树最小深度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/leetcode279完全平方数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/不同路径.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/图像渲染733.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/被围绕的区域.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/路径总和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/跳水板.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/有效括号.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/岛屿数量.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/括号生成.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/二叉树/二叉树的层序遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/恢复空格.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/链表/反转链表.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/买卖股票的最佳时机309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/地下城游戏.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/数组/移除元素.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/交错字符串.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/三角形最小路径和.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/每日一题/计算右侧小于当前元素的个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/二叉树/不同的二叉搜索树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="18" selection-start-line="11" selection-start-column="7" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/戳气球.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/数组/搜索插入位置.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/数组/移动零.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/笔试题/字节跳动/山形数组转换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/分割数最大.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="23" selection-start-line="30" selection-start-column="7" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/分割等和子集.java" />
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/零钱兑换二.java" />
+    <entry file="file://$PROJECT_DIR$/src/Fun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/完全平方数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/搜索/最小路径和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/零钱兑换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/二叉树的镜像.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/剑指offer/_5重建二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/打家劫舍二.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/刷题/leetcode/动态规划/二进制矩阵中的最短路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1542#1543#0" expanded="true" />
           </folding>
         </state>
       </provider>

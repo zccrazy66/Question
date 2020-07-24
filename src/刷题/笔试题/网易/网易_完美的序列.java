@@ -1,4 +1,4 @@
-package 刷题.笔试题;
+package 刷题.笔试题.网易;
 
 
 import java.util.Scanner;
